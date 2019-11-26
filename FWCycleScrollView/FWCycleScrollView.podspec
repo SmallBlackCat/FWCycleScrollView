@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   支持轮播本地、网络图片，同时支持轮播自定义视图。分页控件有多种样式。
                    DESC
 
-  s.homepage     = "https://github.com/choiceyou/FWCycleScrollView"
+  s.homepage     = "https://github.com/SmallBlackCat/FWCycleScrollView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/choiceyou/FWCycleScrollView.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/SmallBlackCat/FWCycleScrollView.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
