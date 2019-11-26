@@ -198,7 +198,7 @@ open class FWCycleScrollView: UIView, UICollectionViewDelegate, UICollectionView
     }
     
     /// 图片ContentMode
-    private var myContentMode: UIView.ContentMode = .scaleToFill
+    public var myContentMode: UIView.ContentMode = .scaleAspectFill
     
     /// 某一项滚动回调
     @objc public var itemDidScrollBlock: ItemDidScrollBlock?
