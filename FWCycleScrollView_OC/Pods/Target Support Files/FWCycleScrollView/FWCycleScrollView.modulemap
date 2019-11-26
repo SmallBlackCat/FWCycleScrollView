@@ -1,6 +1,0 @@
-framework module FWCycleScrollView {
-  umbrella header "FWCycleScrollView-umbrella.h"
-
-  export *
-  module * { export * }
-}
